@@ -1,3 +1,5 @@
+请移步 https://github.com/1844520476/VLP.git
+
 NTVT是我随便取得，因为clip模型是基于自然语言监督信号的迁移视觉模型
 CLIP:clip原生程序
 datadet_label:文本标签
